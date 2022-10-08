@@ -3,4 +3,5 @@
     <string name="lista">Lista</string>
     <string name="ciudad">Bogotá</string>
     <string name="activo">Activo</string>
+    <string name="hora">Hora</string>
 </resources>
